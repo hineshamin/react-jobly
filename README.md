@@ -8,7 +8,8 @@ https://react-jobly.herokuapp.com/
 
 To clone the repository run the following command:
 ```
-git clone https://github.com/hineshamin/react-jobly.git```
+git clone https://github.com/hineshamin/react-jobly.git
+```
 
 Run the following command to install the necessary packages in the root folder  
 ```
